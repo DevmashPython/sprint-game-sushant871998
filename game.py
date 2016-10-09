@@ -49,3 +49,8 @@ time_elapsed=time.time()-s_time
 print "congo u have finished d game"
 print "ur time was"+str(time_elapsed)
  	
+
+'''
+1. no modification required. :>
+2. you were not supposed to upload second project here. :<
+'''
